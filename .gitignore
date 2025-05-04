@@ -1,0 +1,12 @@
+# Ignore the Datasets folder
+Datasets/
+
+# Ignore all CSV files
+*.csv
+
+# Ignore Jupyter checkpoints
+*.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
